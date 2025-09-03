@@ -1,0 +1,23 @@
+══  db: ncbi ═════════════════
+══  25 queries  ══════════════
+✔  Found:  Pieris++rapae
+✔  Found:  Argyresthia+trifasciata+Staudinger,+1871
+✔  Found:  lampides+boeticus
+✔  Found:  Apomyelois+ceratoniae
+✔  Found:  Monarch+butterfly
+✔  Found:  Agathødes+designalis
+✔  Found:  Pàectes+lunodes
+✔  Found:  Carposina+niponensis
+✔  Found:  Choristoneura+freemani
+✔  Found:  Macaria_liturata
+✔  Found:  Aglossa+dimidiatus
+✔  Found:  Euchromius+ocellea
+✔  Found:  Perizoma+alchemillata
+✔  Found:  Symmetrischema+capsica
+✔  Found:  Acalyptris+platani
+✔  Found:  Autographa++gamma
+══  Results  ═════════════════
+
+• Total: 25 
+• Found: 16 
+• Not Found: 0
