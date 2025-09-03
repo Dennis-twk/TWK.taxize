@@ -1,0 +1,13 @@
+══  db: gbif ═════════════════
+══  9 queries  ═══════════════
+✔  Found:  Graphium sarpedon (Linnaeus, 1758) (L.)
+✔  Found:  Chrysoesthia cf. sexguttella
+✔  Found:  Agonopterix alstroemeriana
+✔  Found:  Adris tyrannus
+✖  Not Found:  Nomen nudum
+✔  Found:  Catopyrops × ancyra (Felder, 1860)
+══  Results  ═════════════════
+
+• Total: 9 
+• Found: 5 
+• Not Found: 1

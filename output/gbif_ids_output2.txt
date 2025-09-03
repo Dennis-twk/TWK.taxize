@@ -1,0 +1,22 @@
+══  db: gbif ═════════════════
+══  3 queries  ═══════════════
+✔  Found:  Papilio machaon var. sylvina
+✔  Found:  Papilio polytes f. polytes
+✔  Found:  Papilio × glaucus
+══  Results  ═════════════════
+
+• Total: 3 
+• Found: 3 
+• Not Found: 0
+══  db: gbif ═════════════════
+══  3 queries  ═══════════════
+══  db: gbif ═════════════════
+══  3 queries  ═══════════════
+✔  Found:  Papilio machaon var. sylvina
+✔  Found:  Papilio polytes f. polytes
+✔  Found:  Papilio × glaucus
+══  Results  ═════════════════
+
+• Total: 3 
+• Found: 3 
+• Not Found: 0
